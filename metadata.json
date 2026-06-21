@@ -1,0 +1,6 @@
+{
+  "name": "Adventure Card RPG",
+  "description": "משחק תפקידים והרפתקאות מבוסס קלפים עם שדרוג גיבורים וחפצים, קרבות בוסים ואיסוף שלל",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
